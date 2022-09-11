@@ -1,0 +1,6 @@
+express: "^4.18.1",
+python-multipart:"soon",
+uvicorn:"soon",
+hypercorn:"soon",
+fastapi:"soon",
+python: 3.9.6
